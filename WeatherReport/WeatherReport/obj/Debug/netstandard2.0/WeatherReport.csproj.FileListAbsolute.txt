@@ -1,0 +1,26 @@
+C:\Users\pmallela\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\WeatherReport\bin\Debug\netstandard2.0\WeatherReport.deps.json
+C:\Users\pmallela\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\WeatherReport\bin\Debug\netstandard2.0\WeatherReport.dll
+C:\Users\pmallela\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\WeatherReport\bin\Debug\netstandard2.0\WeatherReport.pdb
+C:\Users\pmallela\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\WeatherReport.csprojAssemblyReference.cache
+C:\Users\pmallela\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pmallela\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pmallela\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\WeatherPage.xaml.g.cs
+C:\Users\pmallela\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\WeatherReport.csproj.CoreCompileInputs.cache
+C:\Users\pmallela\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\WeatherReport.AssemblyInfoInputs.cache
+C:\Users\pmallela\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\WeatherReport.AssemblyInfo.cs
+C:\Users\pmallela\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pmallela\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\WeatherReport.dll
+C:\Users\pmallela\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\WeatherReport.pdb
+C:\WeatherReport\WeatherReport\WeatherReport\bin\Debug\netstandard2.0\WeatherReport.deps.json
+C:\WeatherReport\WeatherReport\WeatherReport\bin\Debug\netstandard2.0\WeatherReport.dll
+C:\WeatherReport\WeatherReport\WeatherReport\bin\Debug\netstandard2.0\WeatherReport.pdb
+C:\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\WeatherReport.csprojAssemblyReference.cache
+C:\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\WeatherPage.xaml.g.cs
+C:\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\WeatherReport.csproj.CoreCompileInputs.cache
+C:\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\WeatherReport.AssemblyInfoInputs.cache
+C:\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\WeatherReport.AssemblyInfo.cs
+C:\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\XamlC.stamp
+C:\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\WeatherReport.dll
+C:\WeatherReport\WeatherReport\WeatherReport\obj\Debug\netstandard2.0\WeatherReport.pdb

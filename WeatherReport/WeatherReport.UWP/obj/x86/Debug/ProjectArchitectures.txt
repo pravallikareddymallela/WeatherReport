@@ -1,0 +1,1 @@
+C:\Users\pmallela\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\WeatherReport.UWP\WeatherReport.UWP.csproj;x86
